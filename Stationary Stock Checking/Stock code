@@ -1,0 +1,15 @@
+CREATE TABLE mytable(
+   Pno       INTEGER  NOT NULL PRIMARY KEY 
+  ,Pname     VARCHAR(15) NOT NULL
+  ,Dcode     INTEGER  NOT NULL
+  ,Qty       INTEGER  NOT NULL
+  ,UnitPrice INTEGER  NOT NULL
+  ,StockDate DATE  NOT NULL
+);
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5001,'Eraser',102,210,3,'2020-03-19');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5002,'Pencil',101,125,4,'2021-02-18');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5003,'Gel Pen premium',102,150,15,'2021-01-01');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5004,'Sharpner',102,60,5,'2020-12-09');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5005,'Ball Point Pen',102,100,10,'2021-03-31');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5006,'Scale',101,200,6,'2020-01-01');
+INSERT INTO mytable(Pno,Pname,Dcode,Qty,UnitPrice,StockDate) VALUES (5009,'Gel Pen classic',103,160,8,'2020-01-19');

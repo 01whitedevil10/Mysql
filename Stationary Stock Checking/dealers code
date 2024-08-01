@@ -1,0 +1,7 @@
+CREATE TABLE mytable(
+   Dcode INTEGER  NOT NULL PRIMARY KEY 
+  ,Dname VARCHAR(20) NOT NULL
+);
+INSERT INTO mytable(Dcode,Dname) VALUES (101,'Sakthi Stationaries');
+INSERT INTO mytable(Dcode,Dname) VALUES (102,'Indian Book House');
+INSERT INTO mytable(Dcode,Dname) VALUES (103,'Classic Stationaries');
