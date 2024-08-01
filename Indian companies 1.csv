@@ -1,0 +1,572 @@
+Rank,Name,marketcap,country
+1,Reliance Industries,2.39141E+11,India
+2,Tata Consultancy Services,1.6607E+11,India
+3,HDFC Bank,1.53786E+11,India
+4,Bharti Airtel,1.02296E+11,India
+5,ICICI Bank,93117431808,India
+6,State Bank of India,89686400463,India
+7,Life Insurance Corporation of India (LIC),80425814114,India
+8,Infosys,73820676096,India
+9,Hindustan Unilever,69777545676,India
+10,ITC,64448977273,India
+11,Larsen &amp; Toubro,60604496225,India
+12,Bajaj Finance,54323989800,India
+13,Maruti Suzuki India,48314027727,India
+14,HCL Technologies,46410824937,India
+15,Adani Enterprises,44650261903,India
+16,Axis Bank,43732356125,India
+17,Tata Motors,43549852325,India
+18,Sun Pharmaceutical,43528581456,India
+19,NTPC Limited,42788985576,India
+20,Mahindra &amp; Mahindra,41946450747,India
+21,Hindustan Aeronautics,41548168176,India
+22,Oil &amp; Natural Gas,41518544034,India
+23,Kotak Mahindra Bank,40969268433,India
+24,UltraTech Cement,38823597834,India
+25,Titan Company,37507974531,India
+26,Adani Ports & SEZ,36982707136,India
+27,DMart,36842763907,India
+28,Coal India,35976563040,India
+29,Powergrid Corporation of India,35806662920,India
+30,Adani Power,34461986801,India
+31,Adani Green Energy,34238322489,India
+32,Asian Paints,33516067264,India
+33,Hindustan Zinc,33500807864,India
+34,Bajaj Auto,33287769570,India
+35,Siemens India,33203872694,India
+36,Bajaj Finserv,30314503347,India
+37,Wipro,29856278528,India
+38,Nestlé India,29302944221,India
+39,Indian Oil,28713173608,India
+40,Indian Railway Finance,27362972588,India
+41,Tata Steel,27341475700,India
+42,Jio Financial Services,27236612454,India
+43,Bharat Electronics,27109244653,India
+44,JSW Steel,26813518055,India
+45,DLF,26003085725,India
+46,Varun Beverages,25539522997,India
+47,ABB India,22921617772,India
+48,Trent Limited,22402151523,India
+49,Power Finance Corp,20114850403,India
+50,Grasim Industries,20058450896,India
+51,Ambuja Cements,19868245196,India
+52,Vedanta,19847840732,India
+53,InterGlobe Aviation,19742718506,India
+54,Zomato,19369619752,India
+55,Pidilite,18938539360,India
+56,Lodha Group,18524253411,India
+57,Hindalco Industries,18271503321,India
+58,LTIMindtree,17823404037,India
+59,Bank of Baroda,17710983291,India
+60,SBI Life Insurance,17634461844,India
+61,GAIL,17463627828,India
+62,Tata Power,17161349827,India
+63,Godrej,17043992771,India
+64,Punjab National Bank,16976411618,India
+65,Rural Electrification Corp,16743783469,India
+66,Bharat Petroleum,16275637584,India
+67,Eicher Motors,16173302921,India
+68,Tech Mahindra,16060324976,India
+69,Britannia Industries,15551947768,India
+70,HDFC Life,15369665278,India
+71,Indian Overseas Bank,15211012726,India
+72,Cipla,15148463628,India
+73,Cholamandalam Investment and Finance,14812416240,India
+74,Divis Laboratories,14575553380,India
+75,Samvardhana Motherson,14333401055,India
+76,JSW Energy,14213997274,India
+77,TVS Motor,14201749887,India
+78,IndusInd Bank,13973635833,India
+79,Hero MotoCorp,13862269840,India
+80,Havells India,13802531850,India
+81,Vodafone Idea,13647635289,India
+82,Adani Energy Solutions,13605002517,India
+83,Union Bank of India,13564306599,India
+84,Zydus Lifesciences,13380974064,India
+85,Canara Bank,13132174592,India
+86,Dabur,12924950785,India
+87,Polycab India,12742016137,India
+88,Tata Consumer Products,12696022122,India
+89,Cummins India,12686217777,India
+90,Jindal Steel &amp; Power,12628207103,India
+91,CG Power and Industrial Solutions,12588394855,India
+92,Adani Total Gas,12458929319,India
+93,NHPC Limited,12323491553,India
+94,Shriram Transport Finance,12294745588,India
+95,Dr. Reddy's,12132086784,India
+96,Shree Cement,11864034046,India
+97,Torrent Pharmaceuticals,11603903034,India
+98,BOSCH India,11405194167,India
+99,IDBI Bank,11150522134,India
+100,United Spirits,11065998213,India
+101,Bajaj Holdings &amp; Investment,11062962657,India
+102,Indus Towers,10968382475,India
+103,Max Healthcare Institute,10833183284,India
+104,Solar Industries India,10700647661,India
+105,Mankind Pharma,10697366335,India
+106,Apollo Hospitals,10643029380,India
+107,ICICI Prulife,10587785080,India
+108,Indian Hotels Company,10431804728,India
+109,ICICI Lombard,10217581405,India
+110,Godrej Properties,10005762669,India
+111,Tube Investments of India,9989359835,India
+112,Indian Railway Catering & Tourism,9743736397,India
+113,Info Edge,9664268075,India
+114,Colgate-Palmolive India,9630964066,India
+115,Marico,9570931780,India
+116,Bharat Forge,9557318864,India
+117,Linde India,9422639202,India
+118,National Mineral Development Corporation,9368253459,India
+119,Torrent Power,9220055841,India
+120,Supreme Industries,9203022823,India
+121,Prestige Group,9200438519,India
+122,Hindustan Petroleum,9110125224,India
+123,Oil India,9059447600,India
+124,Schaeffler India,8984279126,India
+125,Yes Bank,8941114268,India
+126,Aurobindo Pharma,8818051809,India
+127,Lupin Limited,8753541529,India
+128,Indian Bank,8706011685,India
+129,SRF Limited,8507291830,India
+130,Muthoot Finance,8499602487,India
+131,Ashok Leyland,8405824357,India
+132,MakeMyTrip,8336928768,India
+133,SBI Card,8296549038,India
+134,Oberoi Realty,8283235125,India
+135,Container Corporation of India,8279767936,India
+136,General Insurance Corporation of India,8248055476,India
+137,Suzlon,8066827740,India
+138,Dixon Technologies,8053677848,India
+139,Jindal Stainless,8006767986,India
+140,Phoenix Mills,7639409164,India
+141,Steel Authority of India,7581129308,India
+142,Balkrishna Industries,7512017820,India
+143,Aditya Birla Capital,7458384688,India
+144,PB Fintech,7443619704,India
+145,Astral Poly Technik,7305311187,India
+146,Alkem Laboratories,7295057160,India
+147,UNO Minda,7215896474,India
+148,Thermax,7188172301,India
+149,Berger Paints,7014371790,India
+150,Abbott India,6984624437,India
+151,Bharat Dynamics,6926699304,India
+152,Bank of India,6868148696,India
+153,Persistent Systems,6861279455,India
+154,Central Bank of India,6803749070,India
+155,GMR Group,6790696491,India
+156,Hudco,6748274042,India
+157,United Breweries,6677403062,India
+158,IDFC FIRST Bank,6621495617,India
+159,PI Industries,6615589309,India
+160,Procter &amp; Gamble India,6538221862,India
+161,Patanjali Foods,6415583973,India
+162,Madras Rubber Factory,6371677099,India
+163,Tata Communications,6369570731,India
+164,SJVN,6357665904,India
+165,L&amp;T Technology Services,6143830265,India
+166,Honeywell Automation India,6131778290,India
+167,ACC,5986376083,India
+168,Voltas,5927623000,India
+169,AU Small Finance Bank,5882437316,India
+170,Nykaa,5825322083,India
+171,Petronet LNG,5801839293,India
+172,Bank of Maharashtra,5622154055,India
+173,Escorts Limited,5570917270,India
+174,Exide Industries,5518872547,India
+175,Mphasis,5446316237,India
+176,Tata Elxsi,5421629190,India
+177,Adani Wilmar,5361638890,India
+178,Coromandel,5317763408,India
+179,Gujarat Gas,5194160623,India
+180,APL Apollo,5177754650,India
+181,Page Industries,5128966793,India
+182,Punjab &amp; Sind Bank,5116538120,India
+183,Federal Bank,5103044492,India
+184,UPL,4941403471,India
+185,3M India,4929189438,India
+186,LIC Housing Finance,4834820756,India
+187,KPIT Technologies,4803166370,India
+188,New India Assurance,4802229726,India
+189,Biocon,4790324114,India
+190,Endurance Technologies,4546264364,India
+191,Fortis Healthcare,4529314141,India
+192,AIA Engineering,4513391596,India
+193,BSE,4465632988,India
+194,Gujarat Fluorochemicals,4278918020,India
+195,Blue Star,4274412558,India
+196,Dalmia Bharat,4240983376,India
+197,National Aluminum &amp; Alloy,4222744532,India
+198,Glenmark Pharmaceuticals,4176657912,India
+199,Jubilant FoodWorks,4172166576,India
+200,Coforge,4147118920,India
+201,Timken India,4133923510,India
+202,Max Financial Services,4103375674,India
+203,SKF India,4090824575,India
+204,Carborundum Universal,4041740853,India
+205,Indraprastha Gas,4036146106,India
+206,Apar Industries,4014208168,India
+207,JK Cement,3995261839,India
+208,ZF Commercial Vehicle Control Systems India,3951923936,India
+209,Deepak Nitrite,3947014701,India
+210,Hindustan Copper,3897833273,India
+211,NLC India,3845830536,India
+212,Emami,3798212796,India
+213,Bandhan Bank,3745573204,India
+214,Gland Pharma,3638006758,India
+215,Apollo Tyres,3624672049,India
+216,Grindwell Norton,3606341778,India
+217,CRISIL,3597171149,India
+218,Sun TV Network,3595529374,India
+219,Delhivery,3589805137,India
+220,Ipca Laboratories,3588520245,India
+221,Indian Telephone Industries,3496257735,India
+222,NBCC India,3427863543,India
+223,Syngene International,3392643085,India
+224,Tata Chemicals,3371157577,India
+225,Vedant Fashions,3333031052,India
+226,KIOCL,3326298756,India
+227,EIH Limited,3296512948,India
+228,Bayer Crop Science,3290896424,India
+229,Crompton Greaves Consumer Electricals,3274361353,India
+230,Paytm,3226117745,India
+231,"Sumitomo Chemical
+ India",2967093676,India
+232,Aarti Industries,2932966426,India
+233,Finolex Cables,2921129875,India
+234,JBM Auto,2911287861,India
+235,Hatsun Agro Products,2910117154,India
+236,KEC International,2869565834,India
+237,Ratnamani Metals &amp; Tubes,2865438835,India
+238,Laurus Labs,2805940596,India
+239,Tejas Networks,2784066423,India
+240,Radico Khaitan,2752671801,India
+241,Dr Lal PathLabs,2745353466,India
+242,Nerolac Paints,2739516416,India
+243,Whirlpool India,2707356039,India
+244,CDSL,2646662569,India
+245,Natco Pharma,2595022992,India
+246,Elgi Equipments,2591693926,India
+247,Devyani International,2585425047,India
+248,BASF India,2568615693,India
+249,Relaxo Footwear,2489151491,India
+250,Piramal Pharma,2488913896,India
+251,Cyient,2488201113,India
+252,NCC Limited,2469044069,India
+253,Finolex Industries,2458317796,India
+254,Ramco Cements,2451825056,India
+255,Kajaria Ceramics,2443946971,India
+256,Piramal Enterprises,2379575401,India
+257,Multi Commodity Exchange,2378091173,India
+258,Trident,2374831560,India
+259,IIFL Finance,2368096321,India
+260,BEML,2344919990,India
+261,WNS,2337792000,India
+262,Mahindra CIE,2330249104,India
+263,ReNew Power,2323365120,India
+264,Schneider Electric Infrastructure,2316938015,India
+265,Inox Wind,2279774424,India
+266,Blue Dart Express,2257386803,India
+267,Bata India,2236404344,India
+268,IDFC,2200480128,India
+269,Atul,2194719791,India
+270,Chalet Hotels,2154673677,India
+271,IIFL Wealth Management,2105477693,India
+272,Action Construction Equipment,2103478486,India
+273,sterling &amp; wilson solar,2100152558,India
+274,Alembic Pharmaceuticals,2099388764,India
+275,V-Guard Industries,2079433787,India
+276,Chambal Fertilisers,2048646787,India
+277,Redington India,2031952993,India
+278,RITES,2027550730,India
+279,Karur Vysya Bank,2007106635,India
+280,Raymond,1983679368,India
+281,KSB ltd,1975226230,India
+282,DCM Shriram,1935600958,India
+283,Indian Energy Exchange,1909791470,India
+284,Zee Entertainment,1889337957,India
+285,Sanofi India Limited,1886039301,India
+286,Zensar,1885241173,India
+287,RBL Bank,1869133026,India
+288,Welspun India,1867418314,India
+289,CenturyPly,1862349523,India
+290,IndiaMART,1850111282,India
+291,Tata Teleservices,1842140275,India
+292,Asahi India Glass,1804952159,India
+293,Engineers India,1776151651,India
+294,Chennai Petroleum,1755554915,India
+295,Aavas Financiers,1752752637,India
+296,Anant Raj,1739997100,India
+297,Ingersoll Rand India,1738718878,India
+298,BLS International,1736316057,India
+299,PVR Cinemas,1733746986,India
+300,Mahanagar Gas,1726375748,India
+301,Olectra Greentech,1722055299,India
+302,Fine Organics,1714959646,India
+303,Godawari Power &amp; Ispat,1696815958,India
+304,Alok Industries,1642832909,India
+305,Amber Enterprises India,1625817352,India
+306,Jindal Stainless (Hisar),1610419928,India
+307,Ramkrishna Forgings,1600586252,India
+308,HBL Power Systems,1586664816,India
+309,Happiest Minds Technologies,1577820953,India
+310,TANLA,1550569713,India
+311,East India Distilleries Parry,1549784043,India
+312,Praj Industries,1540799604,India
+313,Gujarat Mineral Development,1519776827,India
+314,Reliance Power,1500807837,India
+315,KFin Technologies,1474312543,India
+316,Force Motors,1441254369,India
+317,Bajaj Electricals,1436065651,India
+318,Jubilant Pharmova,1428720143,India
+319,Zydus Wellness,1418821722,India
+320,eClerx Services,1376081041,India
+321,Bombay Burmah,1374458396,India
+322,MMTC,1367827828,India
+323,Aether Industries,1357118428,India
+324,City Union Bank,1345499067,India
+325,Voltamp Transformers,1343567510,India
+326,Graphite India,1338600788,India
+327,Granules India,1337980807,India
+328,Vesuvius India,1333154170,India
+329,Knr Constructions,1303323531,India
+330,MOIL,1293894315,India
+331,Electrosteel Castings,1273265108,India
+332,RattanIndia Power,1272305411,India
+333,Indiabulls Housing Finance,1254763949,India
+334,Varroc,1252277744,India
+335,MapmyIndia,1250860711,India
+336,Puravankara,1248680182,India
+337,Amara Raja Batteries,1241775208,India
+338,CEAT,1236637232,India
+339,Safari Industries India,1215906297,India
+340,Sheela Foam,1214274038,India
+341,Cera Sanitaryware,1193001796,India
+342,Craftsman Automation,1189143587,India
+343,Arvind,1187562927,India
+344,Mahindra Lifespaces,1146816685,India
+345,PCBL Limited,1130791334,India
+346,Galaxy Surfactants,1129519880,India
+347,Rashtriya Chemicals and Fertilizers,1106309313,India
+348,Quess,1101170429,India
+349,Astra Microwave,1094832685,India
+350,ESAB India,1091251898,India
+351,Strides Pharma,1073175996,India
+352,Network18,1065655381,India
+353,Infibeam Avenues,1063326427,India
+354,Symphony Limited,1036320237,India
+355,Kalpataru Power Transmission,1029335063,India
+356,Rajesh Exports,1028008263,India
+357,Campus Activewear,1025507147,India
+358,Shriram Pistons &amp; Rings,1023334366,India
+359,Mishra Dhatu Nigam,1022980231,India
+360,HEG,1015865645,India
+361,Texmaco Rail &amp; Engineering,1014022769,India
+362,Neuland Laboratories,1005091794,India
+363,Mastek,1002862018,India
+364,Syrma SGS Technology,991933858,India
+365,Karnataka Bank,988082614,India
+366,Reliance Infrastructure,987686198,India
+367,Sunteck Realty,987238575,India
+368,Hindustan Construction Company,979758770,India
+369,Power Mech Projects,955967166,India
+370,Greenlam Industries,930360741,India
+371,Kirloskar Ferrous Industries,916821987,India
+372,Prince Pipes And Fittings,913397961,India
+373,SPARC,909351697,India
+374,Religare,903000219,India
+375,FDC India,898976027,India
+376,JSW Holdings,898053903,India
+377,EaseMyTrip,897394878,India
+378,Jindal Worldwide,878841727,India
+379,Marksans Pharma,869340310,India
+380,South Indian Bank,869009228,India
+381,Suprajit Engineering,853899134,India
+382,eMudhra,851837499,India
+383,Transport Corporation of India,849054055,India
+384,VA Tech Wabag,834835381,India
+385,Time Technoplast,832899017,India
+386,PDS Multinational,824480901,India
+387,India Tourism Development Corp,822691096,India
+388,Surya Roshni,806452625,India
+389,VIP Industries,804153150,India
+390,Paisalo Digital,792137717,India
+391,Nazara Technologies,788440438,India
+392,Sterlite Technologies,786522566,India
+393,Borosil,782918480,India
+394,Tata Coffee,775520278,India
+395,IFB Industries,772524858,India
+396,Allcargo Logistics,763319748,India
+397,Edelweiss Financial Services,755492282,India
+398,Ashoka Buildcon,752299179,India
+399,PTC India,749164691,India
+400,MSTC Limited,748697546,India
+401,Ethos Watches,736071500,India
+402,Sundaram Finance,734688558,India
+403,Gabriel India,709378537,India
+404,Gujarat Alkalies and Chemicals,695077363,India
+405,Gokaldas Exports,693568168,India
+406,CSB Bank,690230567,India
+407,Sudarshan Chemical,673760830,India
+408,National Fertilizers,672938029,India
+409,Spandana Sphoorty Financial,670332291,India
+410,Rain Industries,662437382,India
+411,Vaibhav Global,658478426,India
+412,Gateway Distriparks,630927054,India
+413,Jain Irrigation Systems,628623557,India
+414,Orient Electric,624936382,India
+415,VRL Logistics,619029044,India
+416,JCI Hitachi India,618655780,India
+417,Wonderla Holidays,605750300,India
+418,Heidelbergcement India,594021903,India
+419,JTEKT India,593770624,India
+420,Orient Cement,581428719,India
+421,Kaveri Seed,574677343,India
+422,Aarti Drugs,572474495,India
+423,Gulf Oil Lubricants,569380619,India
+424,The Tinplate Company Of India,540016929,India
+425,West Coast Paper Mills,539059734,India
+426,Ashiana Housing,535680686,India
+427,Black Box,533360561,India
+428,Lux Industries,525754209,India
+429,Kewal Kiran Clothing,522511616,India
+430,Imagicaaworld Entertainment,503951206,India
+431,Indian Metals &amp; Ferro Alloys,501789608,India
+432,Skipper Limited,494981825,India
+433,Subros,492932256,India
+434,Hinduja Global Solutions,481263649,India
+435,Greenpanel Industries,474381508,India
+436,Hathway,472687987,India
+437,Tata Steel Long Products,449952913,India
+438,Hikal,440445060,India
+439,Cigniti Technologies,439701964,India
+440,Kalyani Steels,437071456,India
+441,Delta Corp,436088216,India
+442,Anup Engineering,426579344,India
+443,MPS Limited,420936185,India
+444,Nucleus Software Exports,419580269,India
+445,TCNS Clothing,419037148,India
+446,Greenply,417116136,India
+447,Avalon Technologies,409189566,India
+448,Sandhar,404860656,India
+449,Vst Tillers Tractors,404637826,India
+450,Mahindra Logistics,404513658,India
+451,Honda Siel Power Products,403850586,India
+452,Repco Home Finance,400878990,India
+453,SpiceJet,395640365,India
+454,Dollar Industries,393239211,India
+455,Tide Water Oil,387670460,India
+456,Vadilal Industries,387326674,India
+457,CARE's Ratings,385683060,India
+458,Prime Focus,384254429,India
+459,Prakash Industries,381740364,India
+460,Wendt India,378064887,India
+461,Unitech Group,368126687,India
+462,SML Isuzu,368080630,India
+463,Sequent Scientific,367433450,India
+464,Shalby,366814915,India
+465,Dish TV,365129855,India
+466,Automotive Axles,364462884,India
+467,Indoco Remedies,361228826,India
+468,Somany Ceramics,357458194,India
+469,KCP Limited,353888541,India
+470,Jaypee Group,349843822,India
+471,MM Forgings,347810880,India
+472,Nilkamal,345672629,India
+473,India Glycols,335686901,India
+474,Sanghi Industries,332064152,India
+475,Capacit'e Infraprojects,331342344,India
+476,Apollo Pipes,330467895,India
+477,GTL Infrastructure,329730882,India
+478,Polyplex,328723583,India
+479,Confidence Petroleum,326117306,India
+480,GE Power India,321212019,India
+481,Accelya,318141024,India
+482,Alembic Limited,316718696,India
+483,Mahanagar Telephone Nigam,316403187,India
+484,Kingfa Science & Technology,315128030,India
+485,Lumax Industries,315117043,India
+486,Quick Heal,311976988,India
+487,PTC Financial Services,306497286,India
+488,Foseco India,304379342,India
+489,RPG Life Sciences,303050599,India
+490,Hindustan Oil Exploration Company,301754352,India
+491,Huhtamaki India,301244730,India
+492,Jindal Poly Films,299396876,India
+493,Mangalam Cement,295691136,India
+494,Geojit Financial Services,293675067,India
+495,Filatex India,291268493,India
+496,Federal-Mogul Goetze,291057900,India
+497,Astec Lifesciences,289370976,India
+498,Vidhi Specialty Food,280502514,India
+499,Sasken Technologies,276251200,India
+500,Barbeque Nation Hospitality,266954907,India
+501,Parag Milk Foods,263228321,India
+502,Hyderabad Industries Limited,260626580,India
+503,Rupa Company,257501681,India
+504,Siyaram Silk Mills,253885210,India
+505,Hindustan Sanitaryware &amp; Industries,244173718,India
+506,Wheels India,243370315,India
+507,Jagran Prakashan,240439208,India
+508,Cantabil Retail India,238608178,India
+509,Tamil Nadu Newsprint and Papers Limited,231232406,India
+510,GTPL Hathway,229133174,India
+511,Gallantt Ispat,221113575,India
+512,Nelco,219554823,India
+513,India Nippon Electricals,217121861,India
+514,Rane Holdings,216796591,India
+515,Rico Auto Industries,215625247,India
+516,Gati,215137993,India
+517,Cosmo First,211599020,India
+518,Omaxe,204195069,India
+519,Shankara Building,203848831,India
+520,I.g. Petrochemicals,202451799,India
+521,Igarashi Motors India,195993186,India
+522,Southern Petrochemical Industries Corp,194402692,India
+523,Dhampur Sugar Mills,192189801,India
+524,Hester Biosciences,191546864,India
+525,Navkar Corp,184895328,India
+526,Kokuyo Camlin,182571819,India
+527,Excel Industries,180882111,India
+528,NACL Industries,175488858,India
+529,INEOS Styrolution,174838743,India
+530,Kitex Garments,168193331,India
+531,Kuantum Papers,167812611,India
+532,Mangalore Chemicals and Fertilizers,167164830,India
+533,Aptech,162046707,India
+534,Sterling Tools,162028657,India
+535,Sify,161896704,India
+536,India Motor Parts and Accessories,160206921,India
+537,Himatsingka Seide,156207719,India
+538,Oriental Aromatics,151930434,India
+539,Monte Carlo Fashions,147346370,India
+540,Coffee Day Enterprises,144674771,India
+541,Jay Bharat Maruti,140659665,India
+542,Indorama Synthetics,135077855,India
+543,Bliss GVS Pharma,132565347,India
+544,Orient Paper Mills,130348483,India
+545,Kellton Tech Solutions,118357513,India
+546,Bodal Chemicals,117266438,India
+547,Asian Granito India,112966173,India
+548,Spencer's Retail,99812124,India
+549,Nectar Lifesciences,90635726,India
+550,Hindustan Media Ventures,89758689,India
+551,Rane Brake Lining,87889921,India
+552,Apex Frozen Foods,86069595,India
+553,Balaji Telefilms,82881582,India
+554,Ebixcash India,81507586,India
+555,3i Infotech,74300083,India
+556,Yatra,73811256,India
+557,Mirza International,73562757,India
+558,Radio City,69006338,India
+559,Reliance Communications,67038699,India
+560,N.B.I. Industrial Finance,52191178,India
+561,Hinduja Ventures,48138727,India
+562,Azure Power,48124800,India
+563,Milkfood Limited,32768195,India
+564,Zee Learn,30031164,India
+565,Future Retail,21429530,India
+566,MEP Infrastructure,19968436,India
+567,Modern Dairies Limited,14515596,India
+568,Srei Infrastructure Finance,12675992,India
+569,Jump Networks,11669324,India
+570,Future Supply Chain Solutions,2154581,India
